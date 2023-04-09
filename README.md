@@ -19,23 +19,22 @@
 ### **О чем проект?**
 
 ---
-**Animal Years** — это настраиваемый таймер, который работает на всех видах устройств. Цель этого приложения — помочь пользователю сосредоточиться на задачах во время работы. Приложение основано на технике помидора, которая представляет собой метод управления временем, разработанный Франческо Чирилло.
+**Animal Years** — Это программа, которая сопоставляет возраст животных и человека. Именно в этом коде было реализовано сопоставления возраста человека и собаки. Проект был реализован в рамках программы обучения "Codecademy".
+  
+
 
 
 ### **Технологии:**
 ---
 + **Java Script**
-+ **PHP**
-+ **HTML 5**
-+ **CSS 3**
 
 ### **Результат**
 
 ---
 
 
-![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover_app.png?raw=true)
+![](https://github.com/danilashevchenko/animal-years/blob/main/cover.png?raw=true)
 
 <div align="center">
-<a href="https://cw00361.tmweb.ru/pomodoro" class="gradient-button">Посмотреть Таймер</a>
+<a href="https://github.com/danilashevchenko/animal-years" class="gradient-button">Посмотреть код</a>
 </div>
