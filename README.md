@@ -2,7 +2,7 @@
 ---
 ![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover.png?raw=true)
 <p align="center">
-    <em>Программа "Animal Years". Реализован Шевченко Данилой.</em>
+    <em>Проект "Animal Years". Реализован Шевченко Данилой.</em>
 </p>
 
 ---
